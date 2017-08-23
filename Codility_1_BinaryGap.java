@@ -6,7 +6,7 @@ class Solution {
         int current_gap =0;
         boolean counting = false; 
         
-        // Using the "concept of manipulation" and "& operation"
+        // Using the "concept of bit manipulation" and "& operation"
         
         while( N !=0 ){
         
