@@ -1,3 +1,5 @@
+// Codility Lession 6 
+// NumberOfDiscIntersections
 // note: need to import (to use "Arrays.sort(int[])" )
 import java.util.*;
 
