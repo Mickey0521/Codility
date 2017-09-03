@@ -3,7 +3,7 @@
 // note: need to import (to use "Arrays.sort(int[])" )
 import java.util.*;
 
-class Solution {
+class NumberOfDiscIntersections {
     public int solution(int[] A) {
         // main idea:
         // 1. store all the "lower points" and "upper points" of the discs
