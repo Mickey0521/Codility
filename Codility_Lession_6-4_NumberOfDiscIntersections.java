@@ -1,9 +1,11 @@
+package NumberOfDiscIntersections;
+
 // note: need to import (to use "Arrays.sort(int[])" )
 import java.util.*;
 
 // System.out.println("this is a debug message");
 
-class NumberOfDiscIntersections {
+class Solution {
     public int solution(int[] A) {
         
         // main idea:
