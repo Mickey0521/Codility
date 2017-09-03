@@ -1,9 +1,11 @@
+package NumberOfDiscIntersections;
+
 // This is a simple solution with O(n^2) the performance score is low (but 100% correct)
 
 // note: need to import (to use "Arrays.sort(int[])" )
 import java.util.*;
 
-class NumberOfDiscIntersections {
+class Solution {
     public int solution(int[] A) {
         // main idea:
         // 1. store all the "lower points" and "upper points" of the discs
