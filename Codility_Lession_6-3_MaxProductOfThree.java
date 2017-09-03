@@ -4,7 +4,7 @@ import java.util.*;
 // you can write to stdout for debugging purposes, e.g.
 // System.out.println("this is a debug message");
 
-class Solution {
+class MaxProductOfThree {
     public int solution(int[] A) {
 
         // main idea: 
