@@ -7,7 +7,7 @@ class Solution {
     public int solution(int[] A) {
         // main idea:
         // 1. store all the "lower points" and "upper points" of the discs
-        // 2. count the intersections (if one upper point "is bigger or equal to" one lower point)
+        // 2. count the intersections (if one upper point "is bigger than or equal to" one lower point)
         
         // note: use "long" for big numbers (be careful)
         long[] lower = new long[A.length];
