@@ -3,7 +3,7 @@ import java.util.*;
 
 // System.out.println("this is a debug message");
 
-class Solution {
+class Distinct {
     public int solution(int[] A) {
 
       // special case
