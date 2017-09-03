@@ -1,10 +1,12 @@
+package MaxProductOfThree;
+
 // note: need to import (for using "Arrays.sort(int[])")
 import java.util.*;
 
 // you can write to stdout for debugging purposes, e.g.
 // System.out.println("this is a debug message");
 
-class MaxProductOfThree {
+class Solution {
     public int solution(int[] A) {
 
         // main idea: 
