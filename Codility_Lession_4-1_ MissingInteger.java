@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class MissingInteger {
     public int solution(int[] A) {
         // write your code in Java SE 8
         
