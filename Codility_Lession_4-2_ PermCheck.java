@@ -1,7 +1,9 @@
+package PermCheck;
+
 import java.util.*;
 // note: remember to import (when using some data structures)
 
-class PermCheck {
+class Solution {
     public int solution(int[] A) {
         // write your code in Java SE 8
         
