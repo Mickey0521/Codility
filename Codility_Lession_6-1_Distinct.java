@@ -1,9 +1,11 @@
+package Distinct;
+
 // note: remember to import (for using "Arrays.sort(xxx[])")
 import java.util.*;
 
 // System.out.println("this is a debug message");
 
-class Distinct {
+class Solution {
     public int solution(int[] A) {
 
       // special case
