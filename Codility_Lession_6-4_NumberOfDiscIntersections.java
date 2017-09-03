@@ -1,11 +1,9 @@
-// Codility Lession 6 
-// NumberOfDiscIntersections
 // note: need to import (to use "Arrays.sort(int[])" )
 import java.util.*;
 
 // System.out.println("this is a debug message");
 
-class Solution {
+class NumberOfDiscIntersections {
     public int solution(int[] A) {
         
         // main idea:
