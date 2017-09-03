@@ -1,4 +1,6 @@
-class CyclicRotation {
+package CyclicRotation;
+
+class Solution {
     public int[] solution(int[] A, int K) {
         // write your code in Java SE 8
         
