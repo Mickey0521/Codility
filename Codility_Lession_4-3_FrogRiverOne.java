@@ -1,6 +1,8 @@
+package FrogRiverOne;
+
 import java.util.*;
 
-class FrogRiverOne {
+class Solution {
     public int solution(int X, int[] A) {
         // write your code in Java SE 8
         
