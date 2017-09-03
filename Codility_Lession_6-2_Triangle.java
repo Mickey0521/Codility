@@ -1,9 +1,11 @@
+package Triangle;
+
 // note: need to import (so, we can use "Arrays.sort(int[])")
 import java.util.*;
 
 // System.out.println("this is a debug message");
 
-class Triangle {
+class Solution {
     public int solution(int[] A) {
 
     // main idea: for any combination (A[i-2], A[i-1], A[i]) 
