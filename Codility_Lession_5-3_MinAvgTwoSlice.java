@@ -1,7 +1,9 @@
+package MinAvgTwoSlice;
+
 // you can also use imports, for example:
 // import java.util.*;
 
-class MinAvgTwoSlice {
+class Solution {
     public int solution(int[] A) {
 
         // main idea:
