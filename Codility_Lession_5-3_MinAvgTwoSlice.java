@@ -1,7 +1,7 @@
 // you can also use imports, for example:
 // import java.util.*;
 
-class Solution {
+class MinAvgTwoSlice {
     public int solution(int[] A) {
 
         // main idea:
