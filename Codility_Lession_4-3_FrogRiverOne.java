@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class FrogRiverOne {
     public int solution(int X, int[] A) {
         // write your code in Java SE 8
         
