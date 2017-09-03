@@ -1,4 +1,4 @@
-class Solution {
+class GenomicRangeQuery {
     public int[] solution(String S, int[] P, int[] Q) {
         
         // result: the minimal impact of each query
