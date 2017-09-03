@@ -1,4 +1,4 @@
-class Solution {
+class MaxCounters {
     public int[] solution(int N, int[] A) {
         // write your code in Java SE 8
         
