@@ -7,8 +7,7 @@ class Solution {
     public int solution(int[] A) {
 
         // Using "hashMap" for counting
-        Map<Integer, Integer> map = new HashMap<>();
-        
+        Map<Integer, Integer> map = new HashMap<>();      
         
         // 1. Counting
         // map(key, value) ---> map(number, count)
