@@ -1,3 +1,5 @@
+// This solution is a bit "ugly" (but 100%/100% correctness/performance)
+
 package MaxSliceSum;
 
 class Solution {
