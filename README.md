@@ -31,3 +31,25 @@ Lesson 6 Sorting
 - [Triangle](https://github.com/Mickey0521/Codility/blob/master/Triangle.java)
 - [MaxProductOfThree](https://github.com/Mickey0521/Codility/blob/master/MaxProductOfThree.java)
 - [NumberOfDiscIntersections](https://github.com/Mickey0521/Codility/blob/master/NumberOfDiscIntersections.java) (respectable)
+
+Lesson 7 Stacks and Queues
+- [StoneWall](https://github.com/Mickey0521/Codility/blob/master/StoneWall.java)
+- [Brackets](https://github.com/Mickey0521/Codility/blob/master/Brackets.java)
+- [Nesting](https://github.com/Mickey0521/Codility/blob/master/Nesting.java)
+- [Fish](https://github.com/Mickey0521/Codility/blob/master/Fish.java)
+
+Lesson 8 Leader
+- [EquiLeader](https://github.com/Mickey0521/Codility/blob/master/EquiLeader.java)
+- [Dominator](https://github.com/Mickey0521/Codility/blob/master/Dominator.java)
+
+Lesson 9 Maximum slice problem
+- [MaxDoubleSliceSum](https://github.com/Mickey0521/Codility/blob/master/MaxDoubleSliceSum.java)
+- [MaxProfit](https://github.com/Mickey0521/Codility/blob/master/MaxProfit.java)
+- [MaxSliceSum](https://github.com/Mickey0521/Codility/blob/master/MaxSliceSum.java)
+
+Lesson 10 Prime and composite numbers
+- [MinPerimeterRectangle](https://github.com/Mickey0521/Codility/blob/master/MinPerimeterRectangle.java)
+- [CountFactors](https://github.com/Mickey0521/Codility/blob/master/CountFactors.java)
+- [Peaks](https://github.com/Mickey0521/Codility/blob/master/Peaks.java) (respectable)
+- [Flags]() (respectable)
+
