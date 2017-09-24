@@ -13,3 +13,21 @@ Lesson 3 Time Complexity
 - [FrogJmp](https://github.com/Mickey0521/Codility/blob/master/FrogJmp.java)
 - [PermMissingElem](https://github.com/Mickey0521/Codility/blob/master/PermMissingElem.java)
 - [TapeEquilibrium](https://github.com/Mickey0521/Codility/blob/master/TapeEquilibrium.java)
+
+Lesson 4 Counting Elements
+- [PermCheck](https://github.com/Mickey0521/Codility/blob/master/PermCheck.java)
+- [FrogRiverOne](https://github.com/Mickey0521/Codility/blob/master/FrogRiverOne.java)
+- [MissingInteger](https://github.com/Mickey0521/Codility/blob/master/MissingInteger.java)
+- [MaxCounters](https://github.com/Mickey0521/Codility/blob/master/MaxCounters.java) (respectable)
+
+Lesson 5 Prefix Sums
+- [CountDiv](https://github.com/Mickey0521/Codility/blob/master/CountDiv.java)
+- [PassingCars](https://github.com/Mickey0521/Codility/blob/master/PassingCars.java)
+- [GenomicRangeQuery](https://github.com/Mickey0521/Codility/blob/master/GenomicRangeQuery.java) (respectable)
+- [MinAvgTwoSlice](https://github.com/Mickey0521/Codility/blob/master/MinAvgTwoSlice.java) (respectable)
+
+Lesson 6 Sorting
+- [Distinct](https://github.com/Mickey0521/Codility/blob/master/Distinct.java)
+- [Triangle](https://github.com/Mickey0521/Codility/blob/master/Triangle.java)
+- [MaxProductOfThree](https://github.com/Mickey0521/Codility/blob/master/MaxProductOfThree.java)
+- [NumberOfDiscIntersections](https://github.com/Mickey0521/Codility/blob/master/NumberOfDiscIntersections.java) (respectable)
