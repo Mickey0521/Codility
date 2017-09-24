@@ -1,8 +1,6 @@
 # Codility
-My Blog: http://chienchikao.blogspot.tw/
-
 My Solutions to [Codility Lessons](https://codility.com/programmers/lessons/1-iterations/)
-(100% performance with comments/explanation) are as follows:
+(100% performance with comments/explanation) can be found in [My Blog](http://chienchikao.blogspot.tw/) and are listed as follows:
 
 #Lesson 1 Iterations
 - [BinaryGap](https://github.com/Mickey0521/Codility/blob/master/BinaryGap.java)
