@@ -51,5 +51,34 @@ Lesson 10 Prime and composite numbers
 - [MinPerimeterRectangle](https://github.com/Mickey0521/Codility/blob/master/MinPerimeterRectangle.java)
 - [CountFactors](https://github.com/Mickey0521/Codility/blob/master/CountFactors.java)
 - [Peaks](https://github.com/Mickey0521/Codility/blob/master/Peaks.java) (respectable)
-- [Flags]() (respectable)
+- Flags (respectable)
 
+Lesson 11 Sieve of Eratosthenes
+- [CountSemiprimes](https://github.com/Mickey0521/Codility/blob/master/CountSemiprimes.java)
+- [CountNonDivisible](https://github.com/Mickey0521/Codility/blob/master/CountNonDivisible.java) (respectable)
+
+Lesson 12 Euclidean algorithm
+- [ChocolatesByNumbers](https://github.com/Mickey0521/Codility/blob/master/ChocolatesByNumbers_SimpleLowPerformance.java)
+- CommonPrimeDivisors (respectable)
+
+Lesson 13 Fibonacci numbers
+- [Ladder](https://github.com/Mickey0521/Codility/blob/master/Ladder.java) (respectable)
+- [FibFrog](https://github.com/Mickey0521/Codility/blob/master/FibFrog.java) (respectable)
+
+Lesson 14 Binary search algorithm
+- [MinMaxDivision](https://github.com/Mickey0521/Codility/blob/master/MinMaxDivision.java)
+- NailingPlanks (respectable)
+
+Lesson 15 Caterpillar method
+- [AbsDistinct](https://github.com/Mickey0521/Codility/blob/master/AbsDistinct.java)
+- [CountDistinctSlices](https://github.com/Mickey0521/Codility/blob/master/CountDistinctSlices.java)
+- CountTriangles
+- MinAbsSumOfTwo (respectable)
+
+Lesson 16 Greedy algorithms
+- MaxNonoverlappingSegments
+- TieRopes
+
+Lesson 17 Dynamic programming
+- NumberSolitaire (respectable)
+- MinAbsSum (ambitious)
