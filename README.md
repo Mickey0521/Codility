@@ -72,13 +72,13 @@ Lesson 14 Binary search algorithm
 Lesson 15 Caterpillar method
 - [AbsDistinct](https://github.com/Mickey0521/Codility/blob/master/AbsDistinct.java)
 - [CountDistinctSlices](https://github.com/Mickey0521/Codility/blob/master/CountDistinctSlices.java)
-- CountTriangles
+- [CountTriangles](https://github.com/Mickey0521/Codility/blob/master/CountTriangles.java)
 - MinAbsSumOfTwo (respectable)
 
 Lesson 16 Greedy algorithms
-- MaxNonoverlappingSegments
-- TieRopes
+- [MaxNonoverlappingSegments](https://github.com/Mickey0521/Codility/blob/master/MaxNonoverlappingSegments.java)
+- [TieRopes](https://github.com/Mickey0521/Codility/blob/master/TieRopes.java)
 
 Lesson 17 Dynamic programming
-- NumberSolitaire (respectable)
+- [NumberSolitaire](https://github.com/Mickey0521/Codility/blob/master/NumberSolitaire.java) (respectable)
 - MinAbsSum (ambitious)
