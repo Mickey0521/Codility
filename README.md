@@ -66,7 +66,7 @@ Lesson 13 Fibonacci numbers
 - [FibFrog](https://github.com/Mickey0521/Codility/blob/master/FibFrog.java) (respectable)
 
 Lesson 14 Binary search algorithm
-- [MinMaxDivision](https://github.com/Mickey0521/Codility/blob/master/MinMaxDivision.java)
+- [MinMaxDivision](https://github.com/Mickey0521/Codility/blob/master/MinMaxDivision.java) (respectable)
 - NailingPlanks (respectable)
 
 Lesson 15 Caterpillar method
