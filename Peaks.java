@@ -23,7 +23,8 @@ class Solution {
         }
         
         // 2) check the number of Blocks
-        int N = A.length;
+        // Max number of blocks can't exceed peaks count, so that all have at least 1 peak
+        int N = peaksIndexList.size();
         
         // from the "biggest possible number" to smaller number
         for(int numBlocks =N; numBlocks >=1; numBlocks--){
