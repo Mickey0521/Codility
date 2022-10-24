@@ -3,6 +3,8 @@ package Peaks;
 // you can also use imports, for example:
 import java.util.*;
 
+// TODO: this is not a correct solution of the problem
+
 class Solution {
     public int solution(int[] A) {
         
